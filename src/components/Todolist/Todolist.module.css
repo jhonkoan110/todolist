@@ -1,0 +1,12 @@
+.container {
+    margin: 0 1rem 1rem;
+}
+
+.container .completed {
+    background-color: rgba(0, 0, 0, 0.1);
+    text-decoration: line-through;
+}
+
+.container .button {
+    margin-left: 1rem;
+}

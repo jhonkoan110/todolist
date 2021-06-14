@@ -1,0 +1,14 @@
+.container {
+    margin: 0 1rem 1rem;
+}
+
+.container .add-button {
+    width: 20%;
+}
+
+.container .validation-error,
+.container .validation-error:focus,
+.container .validation-error:hover {
+    border: 1px solid red;
+    box-shadow: none;
+}

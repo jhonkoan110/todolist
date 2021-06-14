@@ -1,0 +1,26 @@
+.container {
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 1rem;
+    border-radius: 0 0 20px 20px;
+}
+
+.container .input-row {
+    width: 50%;
+    margin: 0 auto 0.5rem;
+}
+
+.container .validation-error,
+.container .validation-error:focus,
+.container .validation-error:hover {
+    border: 1px solid red;
+    box-shadow: none;
+}
+
+.container .row {
+    margin-bottom: 0.5rem;
+}
+
+.container .row .close-button {
+    margin-left: 0.5rem;
+}
